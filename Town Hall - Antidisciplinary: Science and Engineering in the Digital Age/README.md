@@ -28,10 +28,8 @@ Our goals will be to introduce innovative, non-traditional approaches to discove
 1. 6:15-6:25 PM Ryan McGranaghan (ASTRA LLC; NASA): Opening remarks
 2. 6:25-6:35 PM Ufuoma Ovienmhada (MIT Media Lab Space Exploration Initiative and Space Enabled): What is antidisciplinary?
     *  Introduce innovative, non-traditional approaches to discovery in the Earth and space sciences and to spark novel ideas and research vistas
-3. 6:35-6:45 PM National Academy of Sciences Space Studies Board’s “Best Practices for a Future Open Code Policy for NASA Space Science”
-    *  Chelle Gentemann (National Academy of Sciences co-chair for the Best Practices for a Future Open Code Policy for NASA Space Science report and sit on the NAS standing Committee on Earth Science and Applications from Space (CESAS))
-4. 6:45-6:55 PM NASA "Frontier Development Laboratory” and public-private partnerships
-    *  Lika Guhathakurta (NASA HQ/Ames & FDL)
+3. 6:35-6:45 PM TBD (Committee Member, NAS Committee on the Science of Team Science): Effectively constructing antidisciplinary projects
+4. 6:45-6:55 PM Chaitan Baru (Senior Advisor for the NSF Convergence Accelerator; Senior Data Science Advisor University of California San Diego): Incentivizing antidisciplinary
 5. 6:55-7:15 PM Bridging the gap between the ideas and the applications
     * Bill Diamond (The SETI Institute & NASA Frontier Development Laboratory): 
     * Cat Allman (Google Making & Science Program Manager; Sci Foo Coordinator)

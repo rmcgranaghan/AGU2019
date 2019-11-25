@@ -40,7 +40,7 @@ Our goals will be to introduce innovative, non-traditional approaches to discove
 ### Objectives:
 * Create a new conversation around antidisciplinary in the context of advancing discovery (in this case applied to the geosciences, but reaching more broadly to any endeavor)
     * Introduce innovative, non-traditional approaches to discovery in the Earth and space sciences and to spark novel ideas and research vistas
-* Tie the [New Frontier]() to the ideas in [‘Enhancing the Effectiveness of Team Science’](https://www.nap.edu/catalog/19007/enhancing-the-effectiveness-of-team-science)
+* Tie the [New Frontier](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017JA024835) to the ideas in [‘Enhancing the Effectiveness of Team Science’](https://www.nap.edu/catalog/19007/enhancing-the-effectiveness-of-team-science)
 * Energize the pioneers for the [’next generation PI’](https://science.nasa.gov/researchers/new-pi-resources)
     * Create a conversation around and help shape the definition of the next generation PI
     * Inspire a new wave of next generation PIs

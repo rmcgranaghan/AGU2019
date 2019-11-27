@@ -25,15 +25,15 @@ Our goals will be to introduce innovative, non-traditional approaches to discove
 
 
 ### Agenda:
-1. 6:15-6:25 PM Ryan McGranaghan (ASTRA LLC; NASA): Opening remarks
-2. 6:25-6:35 PM Ufuoma Ovienmhada (MIT Media Lab Space Exploration Initiative and Space Enabled): What is antidisciplinary?
+1. 6:15-6:25 PM Ryan McGranaghan ([ASTRA LLC](https://www.astraspace.net/); NASA): Opening remarks
+2. 6:25-6:35 PM Ufuoma Ovienmhada ([MIT Media Lab Space Exploration Initiative](https://www.media.mit.edu/groups/space-exploration/overview/) and [Space Enabled](https://www.media.mit.edu/groups/space-enabled/overview/)): What is antidisciplinary?
     *  Introduce innovative, non-traditional approaches to discovery in the Earth and space sciences and to spark novel ideas and research vistas
-3. 6:35-6:45 PM TBD (Committee Member, NAS Committee on the Science of Team Science): Effectively constructing antidisciplinary projects
-4. 6:45-6:55 PM Chaitan Baru (Senior Advisor for the NSF Convergence Accelerator; Senior Data Science Advisor University of California San Diego): Incentivizing antidisciplinary
+3. 6:35-6:45 PM Michael O'Rourke ([Michigan State University](http://www.philosophy.msu.edu/people/faculty/michaelorourke/), representing the perspective of the [NAS Committee on the Science of Team Science](https://www.nap.edu/catalog/19007/enhancing-the-effectiveness-of-team-science)): Effectively constructing antidisciplinary projects
+4. 6:45-6:55 PM Chaitan Baru (Senior Advisor for the [NSF Convergence Accelerator](https://www.nsf.gov/od/oia/convergence-accelerator/index.jsp); Senior Data Science Advisor University of California San Diego): Incentivizing antidisciplinary
 5. 6:55-7:15 PM Bridging the gap between the ideas and the applications
-    * Bill Diamond (The SETI Institute & NASA Frontier Development Laboratory): 
-    * Cat Allman (Google Making & Science Program Manager; Sci Foo Coordinator)
-    * Bryan Biegel (NASA HQ; NASA Digital Transformation)
+    * Bill Diamond ([The SETI Institute](https://www.seti.org/) & [NASA Frontier Development Laboratory](https://frontierdevelopmentlab.org/)): 
+    * Cat Allman ([Google Making & Science Program Manager](https://www.youtube.com/channel/UCGNLuO_8S78nBIXnMC2sbIQ); [Sci Foo](https://en.wikipedia.org/wiki/Science_Foo_Camp) Coordinator)
+    * Bryan Biegel (NASA HQ; [NASA Digital Transformation](https://www.nasa.gov/offices/oct/what-is-digital-transformation-and-why-is-nasa-doing-it.html))
 6. Q&A as time permits (allowing audience to dictate direction of conversation)
 
 

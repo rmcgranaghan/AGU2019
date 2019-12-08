@@ -10,5 +10,6 @@
     - [Novel approaches to multiscale geospace particle transfer Team](http://www.issibern.ch/teams/multigeopartransfer/)
 - [Antidisciplinary](https://joi.ito.com/weblog/2014/10/02/antidisciplinar.html)
 - [Journal of Design and Science (JoDS)](https://jods.mitpress.mit.edu/)
+- [Living list of data science tools and resources](https://github.com/rmcgranaghan/data_science_tools_and_resources/wiki/Links)
 
 

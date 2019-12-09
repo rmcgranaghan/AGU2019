@@ -1,6 +1,7 @@
 
 
 - [AGU 2019 Abstract](https://tinyurl.com/McGranaghan-AGUposter1) 
+- [Link to files and resources too big for this GitHub repo](https://drive.google.com/open?id=1S1abjdyXNI1yj8Mb7-6bdXE9hAQ95rQu)
 - [Coupling, Energetics, and Dynamics of Atmospheric Regions (CEDAR): Space Physics Complexity & Strategic Vision](https://cedarweb.vsp.ucar.edu/wiki/index.php/Community:CEDAR_Strategic_Plan)
 - [NASA Digital Transformation](https://www.nasa.gov/offices/oct/what-is-digital-transformation-and-why-is-nasa-doing-it.html)
     - [McGranaghan et al., 2018 -- GNSS prediction data science pilot program](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2018SW002018)
